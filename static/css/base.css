@@ -1,0 +1,46 @@
+/* General styles */
+body {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #1a1a1a !important; /* Dark grey background */
+}
+
+.navbar-brand, .nav-link {
+    color: #a92929; /* Red text */
+}
+
+.nav-link:hover {
+    color: #ffffff; /* White text on hover */
+}
+
+/* Container styles */
+.container {
+    padding: 20px;
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #ff0000; /* Red background */
+    border-color: #ff0000; /* Red border */
+}
+
+.btn-primary:hover {
+    background-color: #cc0000; /* Darker red background on hover */
+    border-color: #cc0000; /* Darker red border on hover */
+}
+
+.card-body{
+    background-color: #1a1a1a !important; /* Dark grey background */
+    color: #ffffff; /* White text */
+    border: none;
+}
+
+.card{
+    border: none;
+}
+
